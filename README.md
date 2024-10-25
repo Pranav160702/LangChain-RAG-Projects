@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```
 - Navigate to the desired project and follow the specific setup instructions within each folder.
 
-##Requirements
+## Requirements
 - Python 3.x
 - LangChain
 - Huggingface
